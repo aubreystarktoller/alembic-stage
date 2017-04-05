@@ -1,0 +1,2 @@
+class StageContext(object):
+    pass
